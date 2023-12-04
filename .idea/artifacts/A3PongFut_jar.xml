@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="A3PongFut:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/A3PongFut_jar</output-path>
+    <root id="archive" name="A3PongFut.jar">
+      <element id="module-output" name="A3PongFut" />
+      <element id="library" level="project" name="natives" />
+    </root>
+  </artifact>
+</component>
